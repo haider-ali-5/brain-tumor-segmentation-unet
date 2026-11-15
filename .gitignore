@@ -1,0 +1,10 @@
+data/kaggle_3m/
+results/checkpoints/
+*.pt
+__pycache__/
+.ipynb_checkpoints/
+colab_upload.zip
+docs/*.pdf
+docs/*.docx
+.venv/
+venv/

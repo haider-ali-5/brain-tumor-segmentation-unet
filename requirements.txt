@@ -1,0 +1,13 @@
+torch>=2.3
+torchvision>=0.18
+albumentations>=1.4.18
+segmentation-models-pytorch>=0.3.3
+opencv-python-headless>=4.8
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn>=0.13
+tqdm
+jupyter
